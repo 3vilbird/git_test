@@ -48,6 +48,11 @@ now to delete the bhanch 'git branch -D [branch name]'
 
 some usefull cmd >  git merge --abort
 
+
+after the merge commit it and then push it to the remote
+
+
+
 --------------------------------------------------
 
 
