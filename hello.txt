@@ -16,3 +16,10 @@ note we can't start editing from here and committing because its no longer a par
 
 cmd to jump back 'git master'
 
+--------------------------------------------------
+
+reverting the last changes
+
+git reset --hard [commit id]
+
+
