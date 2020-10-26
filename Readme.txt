@@ -8,10 +8,7 @@ git status
 ----------------------------------
 git remote -v
 
-
-
-
-
+git branch -r ==> lists the connection between the local and remote branch 
 
 ---------------------------------------
 
@@ -62,6 +59,33 @@ after the merge commit it and then push it to the remote
 
 
 --------------------------------------------------
+  GIT PULL AND FETCH
+
+   git pull get's the remote changes and merges automatically
+
+git fetch will gets the remote chanes but will not merge we have to merge manually
+
+  steps 1  : to check the remote changes  'git checkout origin/master'
+ step 2 : to merge 'git merge origin/master'
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
