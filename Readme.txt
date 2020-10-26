@@ -117,6 +117,9 @@ finally selecting the best stash and adding it to final proj
  added awsome feature 
 
 
+========================================= git merge and git rebase =====================
+
+git merge --squash [branch_name]
 
 
 
