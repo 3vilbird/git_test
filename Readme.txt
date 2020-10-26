@@ -98,6 +98,9 @@ steps    git stash --> makes the uncommited changes invisible
 
  to drop the stash ==> git stash drop [index_no]
 
+==============================================================   feature 1====================
+ added awsome feature 
+
 
 
 finally selecting the best stash and adding it to final proj
