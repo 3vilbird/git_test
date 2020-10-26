@@ -33,6 +33,33 @@ like reverting  all the  changes wihich are uncommited
 git checkout -- .
 
 
+---------------------------------------------------------
+
+creating a new branch 'git checkout -b branch_name'
+
+edit something in htat branch and commit the changes
+
+--------- marging the branch with the master 
+
+  switch to the master and  and issue the cmd 'git merge [branch name]'
+
+now to delete the bhanch 'git branch -D [branch name]'
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
