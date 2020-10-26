@@ -6,6 +6,14 @@ git log
 
 git status
 ----------------------------------
+git remote -v
+
+
+
+
+
+
+---------------------------------------
 
 jumping back to the different head
 
