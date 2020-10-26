@@ -109,6 +109,8 @@ finally selecting the best stash and adding it to final proj
 
     finally commit te code with message
 
+==> finally to clear all the statushes cmd "git stash clear"
+
 
 
 ==============================================================   feature 1====================
