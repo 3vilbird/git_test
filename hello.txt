@@ -28,6 +28,10 @@ commands  to revert the  staged changes
 
 like reverting  all the  changes wihich are uncommited
 
+git checkout -- .
+
+
+
 
 
 
