@@ -88,17 +88,34 @@ git remote -rm origin
 
 
 steps    git stash --> makes the uncommited changes invisible
+ 
+           git stash push -m "message" this pushes the code on stash with message easy to identify 
 
-        git stash apply --> makes the changes visible NOTE  they are not commited  :)
+        git stash apply --> makes the changes visible NOTE  they are not commited  :) can use index to get into specific version
+        like git stash appply [index]
 
  to get all the stash  cmd 'git stash list' 
 
+ to drop the stash ==> git stash drop [index_no]
+
+
+
+finally selecting the best stash and adding it to final proj
+
+==> git stash pop [index] this will add the selected stash to the branch 
+
+    finally commit te code with message
+
+
+
+==============================================================   feature 1====================
+ added awsome feature 
 
 
 
 
 
-                 
+                
 
 
 
