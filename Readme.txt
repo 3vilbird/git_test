@@ -77,6 +77,36 @@ REMOVING THE REMOTE ORIGINE
 git remote -rm origin
 
 
+----------------------------------------------------------
+
+     STASH  why ??? 
+
+
+        we can work on a test snap shot and the we can commit or abort it 
+
+          just to avoid the durty commits
+
+
+steps    git stash --> makes the uncommited changes invisible
+
+        git stash apply --> makes the changes visible NOTE  they are not commited  :)
+
+ to get all the stash  cmd 'git stash list' 
+
+
+
+
+
+
+                 
+
+
+
+
+
+
+
+
 
 
 
