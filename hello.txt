@@ -23,3 +23,22 @@ reverting the last changes
 git reset --hard [commit id]
 
 
+------------------------------------------------------
+commands  to revert the  staged changes 
+
+like reverting  all the  changes wihich are uncommited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
