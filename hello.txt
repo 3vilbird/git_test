@@ -45,6 +45,9 @@ edit something in htat branch and commit the changes
 
 now to delete the bhanch 'git branch -D [branch name]'
 
+
+some usefull cmd >  git merge --abort
+
 --------------------------------------------------
 
 
