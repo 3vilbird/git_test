@@ -66,8 +66,20 @@ after the merge commit it and then push it to the remote
 git fetch will gets the remote chanes but will not merge we have to merge manually
 
   steps 1  : to check the remote changes  'git checkout origin/master'
+====> switch back to the master branch
+
  step 2 : to merge 'git merge origin/master'
-  
+
+------------------------------------------------------
+
+REMOVING THE REMOTE ORIGINE
+
+git remote -rm origin
+
+
+
+
+
 
 
 
