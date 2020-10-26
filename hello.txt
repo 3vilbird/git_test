@@ -5,3 +5,14 @@ this is a second commit
 git log
 
 git status
+----------------------------------
+
+jumping back to the different head
+
+git checkout  [commit hash here ] 
+
+note we can't start editing from here and committing because its no longer a part of the the branch
+
+
+cmd to jump back 'git master'
+
